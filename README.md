@@ -28,6 +28,7 @@ A curated collection of open-source tools, databases, and resources for chess an
 - [python-chess](https://github.com/niklasf/python-chess) Python library for chess move generation, validation, and engine communication
 - [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/) CLI tool for filtering and converting PGN files
 - [CuteChess](https://github.com/cutechess/cutechess) GUI for engine-vs-engine matches and tournaments
+- [Patzer](https://github.com/SikamikanikoBG/patzer) — Your private Chess.com. Self-hosted, AI-coached, family-friendly. Stockfish + your own LLM (Ollama or vLLM), in one Docker container.
 
 ## Opening References
 
