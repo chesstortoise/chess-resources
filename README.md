@@ -28,6 +28,7 @@ A curated collection of open-source tools, databases, and resources for chess an
 - [python-chess](https://github.com/niklasf/python-chess) Python library for chess move generation, validation, and engine communication
 - [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/) CLI tool for filtering and converting PGN files
 - [CuteChess](https://github.com/cutechess/cutechess) GUI for engine-vs-engine matches and tournaments
+- [ScanChess](https://scanchess.com) - Free chess OCR: turn a board photo or screenshot into editable FEN and handwritten scoresheets into PGN, then analyze in the browser.
 
 ## Opening References
 
